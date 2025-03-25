@@ -74,7 +74,7 @@ pip install numpy matplotlib
 ## Example Output  
 ### **Plot of Variational Parameter vs. Energy**  
 #### *Harmonic Oscillator:*
-![Description of Image]
+![Energy vs Variational Parameter](Harmonic_oscillator.png)
 
 
 #### *Hydrogen Atom:*  
