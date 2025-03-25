@@ -11,8 +11,7 @@ The variational parameter **α** is optimized to minimize the expectation value 
 - Computes **ground-state energy** for both systems  
 - Optimizes **variational parameter α**  
 - **Plots**:  
-  - Energy vs. α  
-  - Histogram of sampled positions  
+  - Energy vs. α    
 - Outputs **table of α, energy, and variance**  
 ## How to Run  
 
