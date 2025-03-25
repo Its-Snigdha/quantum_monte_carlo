@@ -77,6 +77,7 @@ pip install numpy matplotlib
 ![Energy vs Variational Parameter](https://github.com/Its-Snigdha/quantum_monte_carlo/blob/main/Harmonic_oscillator.png?raw=true)
 
 
+
 #### *Hydrogen Atom:*  
 ### **Table of Variational Parameter, Energy, and Variance**  
 #### *Harmonic Oscillator:*  
