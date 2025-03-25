@@ -72,16 +72,38 @@ pip install numpy matplotlib
 - **Variational Monte Carlo (VMC):**  
   - Computes **mean energy** & **variance**  
 ## Example Output  
-### **Plot of Variational Parameter vs. Energy**  
-#### *Harmonic Oscillator:*
-![Energy vs Variational Parameter](https://github.com/Its-Snigdha/quantum_monte_carlo/blob/main/Harmonic_oscillator.png?raw=true)
-
-
-
-#### *Hydrogen Atom:*  
 ### **Table of Variational Parameter, Energy, and Variance**  
 #### *Harmonic Oscillator:*  
+| α  | Energy  | Variance  |
+|----|---------|----------|
+| 0.5  | 2.0775  | 6.4109  |
+| 0.6  | 1.5679  | 2.9694  |
+| 0.7  | 1.2571  | 1.1671  |
+| 0.8  | 1.0967  | 0.4237  |
+| 0.9  | 1.0230  | 0.0889  |
+| 1.0  | 1.0000  | 0.0000  |
+| 1.1  | 1.0160  | 0.0752  |
+| 1.2  | 1.0677  | 0.2753  |
+| 1.3  | 1.1429  | 0.6115  |
+| 1.4  | 1.2315  | 1.0516  |
+| 1.5  | 1.3563  | 1.6077  |
 
+---
+
+### **Hydrogen Atom**
+| α  | Energy  | Variance  |
+|----|---------|----------|
+| 0.5  | -0.3528  | 0.0970  |
+| 0.6  | -0.4134  | 0.1803  |
+| 0.7  | -0.4514  | 0.1877  |
+| 0.8  | -0.4857  | 0.0826  |
+| 0.9  | -0.5145  | 0.0837  |
+| 1.0  | -0.5347  | 0.2319  |
+| 1.1  | -0.5414  | 0.0695  |
+| 1.2  | -0.5413  | 0.0615  |
+| 1.3  | -0.5327  | 0.0671  |
+| 1.4  | -0.5106  | 0.0534  |
+| 1.5  | -0.4846  | 0.1240  |
 
 
 
