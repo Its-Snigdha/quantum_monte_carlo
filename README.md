@@ -60,10 +60,10 @@ pip install numpy matplotlib
 
 ### **2. Hydrogen Atom**  
 - **Trial Wavefunction:**  
-  - `ψ(r) ∝ exp(-α r)`  
+  - `ψ(r) ∝ α r exp(-α r)`  
 
 - **Energy Estimation:**  
-  - `E(α) = -1/2 (α² - α)`  
+  - `E(α) = E(α) = (-α / 2) * (α - 2 / r) - 1 / r^1.1  
 
 - **Metropolis Algorithm:**  
   - Samples **radial position space** using **ψ(r)²**  
