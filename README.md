@@ -104,15 +104,6 @@ pip install numpy matplotlib
 | 1.3  | -0.5327  | 0.0671  |
 | 1.4  | -0.5106  | 0.0534  |
 | 1.5  | -0.4846  | 0.1240  |
-
-
-
-
-#### *Hydrogen Atom:*  
-
-
-
-
 ## Notes  
 - Results depend on **step size** and **sampling iterations**.  
 - The optimal α is found by minimizing the energy**.  
